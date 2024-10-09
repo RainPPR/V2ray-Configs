@@ -4,6 +4,15 @@
 #support-url: https://github.com/RainPPR/V2ray-Configs
 #profile-web-page-url: https://github.com/RainPPR/V2ray-Configs
 
+ss://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.46.252:443?path=%2FTel-%40V2ray_Alpha%2F%3Fed%3D2048&security=tls&encryption=none&host=94391e80.uvPN-OrG.PAGes.Dev&type=ws&sni=94391e80.uvPN-OrG.PAGes.Dev#%40V2ray_Alpha_MCI_14
+ss://dfc79b00-a51a-45cf-9c0a-d061a01295b4@172.67.134.196:443?path=%2FTel-%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=PaHLAvi-184.PAgES.dEV&fp=randomized&type=ws&sni=pAHlAvi-184.pAGEs.DeV#%40V2ray_Alpha_MCI_15
+ss://89b3cbba-e6ac-485a-9481-976a0415eab9@23spt.pages.dev:443?path=%2FTel-%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&alpn=http/1.1&host=23spt.pages.dev&type=ws&sni=23sPT.pAGEs.dEV#%40V2ray_Alpha_MCI_16
+ss://38720105-063f-40f5-a5eb-f3198b9b617d@aksnmaioas.pages.dev:443?path=%2FTel-%40V2ray_Alpha%2F%3Fed%3D2048&security=tls&encryption=none&host=aksnmaioas.pages.dev&type=ws&sni=aksnmaioas.pages.dev#%40V2ray_Alpha_MCI_17
+ss://e8b87dd9-cc8f-407c-a1f3-a564009fe6ee@172.66.47.130:443?path=%2FTel-%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&host=dc1bf227.vf-8co.pages.dev&fp=randomized&type=ws&sni=dc1bf227.vf-8co.pages.dev#%40V2ray_Alpha_MCI_18
+ss://2d01b0eb-91fd-4eae-9fb0-50c08856181d@172.66.44.57:443?path=%2FTel-%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&host=e420ceed.aryoo-vpn-friends.pages.dev&type=ws&sni=e420ceed.aryoo-vpn-friends.pages.dev#%40V2ray_Alpha_MCI_19♾نامحدود
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuQU9zV1RYd3dsQkZkMkV6MmRHSzJz@13.79.174.197:63314#%40V2ray_Alpha_IR_1
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.110.1.12:2375#%40V2ray_Alpha_IR_2
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.110.1.12:6379#%40V2ray_Alpha_IR_3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAw@45.144.48.58:57456#%40V2ray_Alpha_IR_4
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNSjRmVGRjYmowaVg5S0VXMlVHNVFi@52.169.109.160:18750#%40V2ray_Alpha_IR_5
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5QVUxUlRqV0podTdnZlp2STk4dWxa@52.169.109.35:59208#%40V2ray_Alpha_IR_6
