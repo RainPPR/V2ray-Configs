@@ -4,10 +4,6 @@
 #support-url: https://github.com/RainPPR/V2ray-Configs
 #profile-web-page-url: https://github.com/RainPPR/V2ray-Configs
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuQU9zV1RYd3dsQkZkMkV6MmRHSzJz@13.79.174.197:63314#%40V2ray_Alpha_IR_1
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.110.1.12:2375#%40V2ray_Alpha_IR_2
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.110.1.12:6379#%40V2ray_Alpha_IR_3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAw@45.144.48.58:57456#%40V2ray_Alpha_IR_4
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNSjRmVGRjYmowaVg5S0VXMlVHNVFi@52.169.109.160:18750#%40V2ray_Alpha_IR_5
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5QVUxUlRqV0podTdnZlp2STk4dWxa@52.169.109.35:59208#%40V2ray_Alpha_IR_6
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNRGczTmpsbA==@91.194.161.7:8388#%40V2ray_Alpha_IR_7
