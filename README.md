@@ -6,7 +6,7 @@
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/RainPPR/V2ray-Configs.svg) [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/) [![GitHub stars](https://img.shields.io/github/stars/RainPPR/V2ray-Configs.svg)](https://github.com/RainPPR/V2ray-Configs/stargazers) [![Update Configs](https://github.com/RainPPR/V2ray-Configs/actions/workflows/main.yml/badge.svg)](https://github.com/RainPPR/V2ray-Configs/actions/workflows/main.yml) ![GitHub repo size](https://img.shields.io/github/repo-size/RainPPR/V2ray-Configs)
 
-## 由 RainPPR 修改如下：
+## 由 RainPPR 修改如下
 
 + 为了缩减仓库大小，去除了所有 Base64 内容。
 
@@ -18,13 +18,8 @@
 
 <!-- add-file: ./Files/.date -->
 
-``` date markdown-add-files
-Last updated: Fri Oct 18 23:18:18 UTC 2024
-
-```
-
 ## 使用方法
 
-要使用这些配置之一，只需打开位于根目录的 All_Configs_Sub.txt 文件。该文件包含各种 V2ray 配置文件的链接列表，你可以在 V2ray 客户端中使用它们。从 All_Configs_Sub.txt 文件中复制想要使用的配置文件的这个链接，然后导入到你的 V2ray 客户端中。有关更多信息，请参阅客户端的文档。
+要使用这些配置之一，只需打开位于根目录的 All_Configs_Sub.txt 文件。该文件包含各种 V2ray 配置文件的链接列表，你可以在 V2ray 客户端中使用它们。从 `All_Configs_Sub.txt` 文件中复制想要使用的配置文件的这个链接，然后导入到你的 V2ray 客户端中。有关更多信息，请参阅客户端的文档。
 
-为了确保最佳的性能和安全性，我们建议使用订阅链接功能订阅最新的配置。只需从 configs.txt 文件中复制订阅链接，然后将其粘贴到你的 V2ray 客户端中即可每 20 分钟自动更新。
+为了确保最佳的性能和安全性，我们建议使用订阅链接功能订阅最新的配置。只需从 `All_Configs_Sub.txt` 文件中复制订阅链接，然后将其粘贴到你的 V2ray 客户端中即可每 60 分钟自动更新。
