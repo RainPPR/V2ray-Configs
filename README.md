@@ -18,6 +18,11 @@
 
 <!-- add-file: ./Files/.date -->
 
+``` date markdown-add-files
+Last updated: Sat Oct 19 01:01:24 UTC 2024
+
+```
+
 ## 使用方法
 
 要使用这些配置之一，只需打开位于根目录的 All_Configs_Sub.txt 文件。该文件包含各种 V2ray 配置文件的链接列表，你可以在 V2ray 客户端中使用它们。从 `All_Configs_Sub.txt` 文件中复制想要使用的配置文件的这个链接，然后导入到你的 V2ray 客户端中。有关更多信息，请参阅客户端的文档。
