@@ -4,7 +4,6 @@
 #support-url: https://github.com/RainPPR/V2ray-Configs
 #profile-web-page-url: https://github.com/RainPPR/V2ray-Configs
 
-trojan://telegram-id-privatevpns@15.236.143.190:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🆔privatevpns%20🔒%20TR-TCP-N/A%20🇫🇷%20FR%20153ms
 trojan://telegram-id-privatevpns@35.181.22.149:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🆔privatevpns%20🔒%20TR-TCP-N/A%20🇫🇷%20FR%2085ms
 trojan://telegram-id-privatevpns@52.57.84.177:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🆔privatevpns%20🔒%20TR-TCP-N/A%20🇩🇪%20DE%2091ms
 trojan://telegram-id-privatevpns@3.121.57.25:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🆔privatevpns%20🔒%20TR-TCP-N/A%20🇩🇪%20DE%2091ms
@@ -504,3 +503,4 @@ vless://38720105-063f-40f5-a5eb-f3198b9b617d@aksnmaioas.pages.dev:443?path=%2FTe
 vless://dfc79b00-a51a-45cf-9c0a-d061a01295b4@172.67.134.196:443?path=%2FTel-%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=PaHLAvi-184.PAgES.dEV&fp=randomized&type=ws&sni=pAHlAvi-184.pAGEs.DeV#👉🆔
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@w3.org:443?path=%2FTel-%40V2ray_Alpha%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=56897854.pAGES.dEv&fp=randomized&type=ws&sni=56897854.PaGeS.DEv#👉🆔
 vless://f06ac303-e626-451d-bcfc-ee825ee69398@noora.ir:443?path=%2FTel-%40V2ray_Alpha%2F%3Fed%3D2048&security=tls&encryption=none&host=azaDNEt-sEMEJ.PageS.Dev&type=ws&sni=AzADnet-semEj.PAGes.dEv#👉🆔
+vless://cc9a3194-ebbd-49ab-9da5-002bbb7a7db1@live.skornorth.com:443?encryption=none&security=tls&sni=live.skornorth.com&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=1&type=ws&host=onlineshoppardis.com&path=%2F%40vistav2ray---%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray%3Fed%3D2048#👉🆔
