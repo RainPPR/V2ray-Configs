@@ -1,0 +1,53 @@
+name: Update Configs
+
+on:
+  push:
+    branches:
+      - master
+      - main
+  pull_request:
+    branches:
+      - master
+      - main
+  schedule:
+    # Run every 60 minutes
+    - cron: '*/60 * * * *'
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    name: Update Configs
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.x'
+    - name: Install dependencies
+      run: cd Files && pip install -r requirements.txt
+
+    - name: Config Git
+      run: |
+        git config user.name github-actions[bot]
+        git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+
+    - name: Run Config Script
+      run: |
+        cd Files
+        python app.py
+        echo -n "Last updated: " >.date
+        date >> .date
+    - name: Update README.md
+      uses: nwylynko/markdown-add-files@master
+
+    - name: Commit and Push files
+      run: |
+        git add .
+        git commit -m "Update Configs"
+        git push
