@@ -4,8 +4,6 @@
 #support-url: https://github.com/RainPPR/V2ray-Configs
 #profile-web-page-url: https://github.com/RainPPR/V2ray-Configs
 
-vless://e0eddd4c-7a08-41e9-82dc-53228a9348cf@188.132.232.4:8080?security=none&encryption=none&host=uptvs.com&headerType=http&type=tcp#IR-%40V2ray_Alpha-11
-vless://578ade22-1e58-4c37-ce01-bfad51a72c62@WwW.SpEEdTesT.NeT:8443?mode=multi&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&authority=&fp=chrome&type=grpc&serviceName=&sni=13l1.diginoshops10.ir#IR-%40V2ray_Alpha-12
 vless://95d5f98e-9303-4f75-8468-129c3f7bd318@172.66.47.169:443?path=%2FTelegram%40V2ray_Alpha%3Fed%3D2048&security=tls&encryption=none&host=channel-mosiv2.pages.dev&fp=randomized&type=ws&sni=MoSiv2.PaGES.DeV#IR-%40V2ray_Alpha-13
 vless://47df6fe1-cc2a-4f26-b748-08d902272bde@172.67.201.123:443?path=%2FTelegram%40V2ray_Alpha%3Fed%3D2048&security=tls&encryption=none&host=PpAl03.arNULFO-KuNZe.worKErS.Dev&type=ws&sni=PpAL03.arNUlFo-kunZE.WORkerS.dEV#IR-%40V2ray_Alpha-14
 vless://e169856c-7c19-4908-9bdf-448dc846163a@144.21.56.16:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.0wolf.com#IR-%40V2ray_Alpha-15
