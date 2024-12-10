@@ -4,10 +4,6 @@
 #support-url: https://github.com/RainPPR/V2ray-Configs
 #profile-web-page-url: https://github.com/RainPPR/V2ray-Configs
 
-vless://2f1f7fbf-f37d-4275-c014-298a83f4e5a8@WwW.SpEEdTesT.NeT:80?path=%2F&security=none&encryption=none&host=4h1.diginoshops10.ir&type=httpupgrade#IR-%40V2ray_Alpha-8
-vless://2f1f7fbf-f37d-4275-c014-298a83f4e5a8@WwW.SpEEdTesT.NeT:80?path=%2F&security=none&encryption=none&host=1i5.diginoshops10.ir&type=httpupgrade#IR-%40V2ray_Alpha-9
-vless://3542952f-fabc-4556-b68b-dcd4e21c3944@95.164.117.128:8880?security=reality&encryption=none&pbk=ra4OxEIGMgGc84ujeHHHuks4AKE_PXakoKFvL89b71E&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=680a8928#IR-%40V2ray_Alpha-10
-vless://e0eddd4c-7a08-41e9-82dc-53228a9348cf@188.132.232.4:8080?security=none&encryption=none&host=uptvs.com&headerType=http&type=tcp#IR-%40V2ray_Alpha-11
 vless://578ade22-1e58-4c37-ce01-bfad51a72c62@WwW.SpEEdTesT.NeT:8443?mode=multi&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&authority=&fp=chrome&type=grpc&serviceName=&sni=13l1.diginoshops10.ir#IR-%40V2ray_Alpha-12
 vless://95d5f98e-9303-4f75-8468-129c3f7bd318@172.66.47.169:443?path=%2FTelegram%40V2ray_Alpha%3Fed%3D2048&security=tls&encryption=none&host=channel-mosiv2.pages.dev&fp=randomized&type=ws&sni=MoSiv2.PaGES.DeV#IR-%40V2ray_Alpha-13
 vless://47df6fe1-cc2a-4f26-b748-08d902272bde@172.67.201.123:443?path=%2FTelegram%40V2ray_Alpha%3Fed%3D2048&security=tls&encryption=none&host=PpAl03.arNULFO-KuNZe.worKErS.Dev&type=ws&sni=PpAL03.arNUlFo-kunZE.WORkerS.dEV#IR-%40V2ray_Alpha-14
