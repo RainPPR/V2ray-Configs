@@ -4,8 +4,6 @@
 #support-url: https://github.com/RainPPR/V2ray-Configs
 #profile-web-page-url: https://github.com/RainPPR/V2ray-Configs
 
-vless://8f7de551-d5a9-41d7-8e8e-31c59fdf4985@www.vzug.com:443?path=%2FVLESS%2Fnl-full.privateip.net&security=tls&alpn=http%2F1.1&encryption=none&host=yelan.thelastronin.cloudns.org&fp=random&type=ws&sni=yelafohfh9f9ufun.thelastronin.cloudns.org#MCI-%40V2ray_Alpha-16
-vless://e1272d7a-507d-4b39-bd7d-453f7c194214@www.thcfarmer.com:443?path=%2FVLESS%2Fuk-full.privateip.net&security=tls&alpn=http%2F1.1&encryption=none&host=yelan.lastronin.cloudns.org&fp=random&type=ws&sni=yelubdu0vdouvdan.lastronin.cloudns.org#MCI-%40V2ray_Alpha-17
 vless://eyJhZGQiOiI0Ny43NC44LjIwMiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI5ZjU2M2JjNy0wNDgxLTQxZDItZjhmZC1hNDczNmRlZDliYzAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjIzNDY4IiwicHMiOiJNQ0ktQFYycmF5X0FscGhhLTE4Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==♾نامحدود
 vless://e4f694e3-8299-4942-bbeb-227d41435edf@86.106.20.145:18730?path=%2F&security=none&encryption=none&host=Speedtest.net&type=ws#IR-%40V2ray_Alpha-5
 vless://201049a5-69b2-4444-9c75-dcf674b7e8bd@136.244.76.124:8787?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#IR-%40V2ray_Alpha-6
