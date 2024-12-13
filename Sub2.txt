@@ -4,8 +4,6 @@
 #support-url: https://github.com/RainPPR/V2ray-Configs
 #profile-web-page-url: https://github.com/RainPPR/V2ray-Configs
 
-vless://d3a12e79-ef42-4268-b367-42eeb3494e60@104.21.233.139:443?path=%2FTelegram%40Linkvws%3Fed%3D2048&security=tls&encryption=none&host=Hagh.PaGes.DEv&type=ws&sni=Hagh.PaGes.DEv#All-%40V2ray_Alpha_2
-vless://50b7fc84-85b4-4043-b1f7-6477c9017a44@162.159.152.2:443?path=%2FTelegram%40Linkvws%3Fed%3D2560&security=tls&encryption=none&host=purlitefastest.pages.dev&type=ws&sni=purlitefastest.pages.dev#All-%40V2ray_Alpha_3
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.115:443?path=%2FTelegram%40Linkvws%3Fed%3D2560&security=tls&encryption=none&host=6b700e9b.bpb-worker-panel-9r9.pages.dev&type=ws&sni=6B700E9B.BPB-WORKEr-PAnel-9r9.PAGeS.dev#All-%40V2ray_Alpha_4
 vless://auto@104.16.224.104:443?path=%2Ftrojanmz.pages.dev%2F%3Fed%3D2560&security=tls&host=trojanmz.pages.dev&type=ws&sni=trojanmz.pages.dev#All-%40V2ray_Alpha_5♾نامحدود
 vless://I_Love_%F0%9F%87%B5%F0%9F%87%B8_SSHMax_4daa63a@www.speedtest.net:8080?path=%2Fhttpupgrade&security=none&encryption=none&host=AB.841.vpn.ir.de2.vless.sitespeedtest.net&type=httpupgrade#All-%40V2ray_Alpha-13
