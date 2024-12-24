@@ -4,6 +4,8 @@
 #support-url: https://github.com/RainPPR/V2ray-Configs
 #profile-web-page-url: https://github.com/RainPPR/V2ray-Configs
 
+vless://6842f2ae-8c18-4e30-8a42-d4632a849f98@57.128.178.253:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=en.linceedab.com#MCI-%40V2ray_Alpha-09
+vless://dfd7e083-fde5-4626-a5ac-5deb691b487a@151.101.194.228:443?path=de%3Fed%3D1048&security=tls&encryption=none&host=didnegar.com&fp=firefox&type=ws&sni=bwdraper.faculty.ucdavis.edu#MCI-%40V2ray_Alpha-10
 vless://9b09534c-4bb1-4943-b2e7-b4c97ccae541@spd.fastly80-3.hosting-ip.com:80?path=%2FSPdnet%3Fed%3D2048&security=none&encryption=none&host=service.bomb.clear.spdteam.ir.&type=ws#MCI-%40V2ray_Alpha-11♾نامحدود
 vless://I_Love_%F0%9F%87%B5%F0%9F%87%B8_SSHMax_dc7008e@hajlab.ucdavis.edu:443?path=%2Fvless&security=tls&encryption=none&host=game-gaming.ir&fp=chrome&type=ws&sni=hajlab.ucdavis.edu#IR-%40V2ray_Alpha-4
 vless://dca7418d-6454-48f9-ac6b-9e586ca40a1c@hajlab.ucdavis.edu:80?security=none&encryption=none&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v17.TzZLiMitTNeWz.NeT&type=ws#IR-%40V2ray_Alpha-5
