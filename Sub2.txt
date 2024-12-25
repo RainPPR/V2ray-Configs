@@ -4,8 +4,6 @@
 #support-url: https://github.com/RainPPR/V2ray-Configs
 #profile-web-page-url: https://github.com/RainPPR/V2ray-Configs
 
-vless://f8bb4ae1-2358-4a76-ab75-2a6bc94272d6@pscresearch.faculty.ucdavis.edu:443?path=ws%2F%3Fed%3D2048&security=tls&encryption=none&host=hgc6rct87gy.com&type=ws&sni=pscresearch.faculty.ucdavis.edu#MCI-%40V2ray_Alpha-12
-vless://ced63688-30a1-50b9-8f3b-b8d3f834abc0@speedtest.net:80?security=none&encryption=none&host=MO-SI-V2.COM&type=ws#MCI-%40V2ray_Alpha-13
 vless://29e0206a-2cef-4c8d-aa4b-dd7a43748167@b-corsairs.com:443?path=%2Folem%2Fws%3F%40V2ray_Alpha-d%3D4096&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=fonmelo.com&fp=chrome&type=ws&sni=zmaoz.faculty.ucdavis.edu.#MCI-%40V2ray_Alpha-14
 vless://eyJhZGQiOiIxNDcuNDUuNTEuMTYiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImY0MS5tYXJ5YW0xNTAwLnRvcCIsImlkIjoiODM4NzYyMjItNjRhNC00OTEyLWFhMTgtYjdkOWQzNDk1OWRlIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiMjA5OCIsInBzIjoiTUNJLUBWMnJheV9BbHBoYS0xNSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
 vless://eyJhZGQiOiIyLjE4OS41OS43IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJvYmRpaS5jZmQiLCJpZCI6IjA1NjQxY2Y1LTU4ZDItNGJhNC1hOWYxLWIzY2RhMGIxZmIxZCIsIm5ldCI6IndzIiwicGF0aCI6Ii9saW5rd3MiLCJwb3J0IjoiNDQzIiwicHMiOiJNQ0ktQFYycmF5X0FscGhhLTE2Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9♾نامحدود
