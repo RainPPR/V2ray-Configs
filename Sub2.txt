@@ -4,6 +4,9 @@
 #support-url: https://github.com/RainPPR/V2ray-Configs
 #profile-web-page-url: https://github.com/RainPPR/V2ray-Configs
 
+vless://ba50e392-753a-4828-a7b8-d72ce226fa6a@cgpg-at0.pages.dev:2087?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048&security=tls&encryption=none&host=cgpg-at0.pages.dev&type=ws&sni=cgpg-at0.pages.dev#ir-%40V2ray_Alpha-7
+vless://ba50e392-753a-4828-a7b8-d72ce226fa6a@cgpg-at0.pages.dev:2083?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048&security=tls&encryption=none&host=cgpg-at0.pages.dev&type=ws&sni=cgpg-at0.pages.dev#ir-%40V2ray_Alpha-8
+vless://ba50e392-753a-4828-a7b8-d72ce226fa6a@cgpg-at0.pages.dev:2053?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048&security=tls&encryption=none&host=cgpg-at0.pages.dev&type=ws&sni=cgpg-at0.pages.dev#ir-%40V2ray_Alpha-9♾نامحدود
 vless://18a8deb7-430f-46d0-b814-0231a433dc3b@www.speedtest.net:443?path=%2Fhajmi&security=tls&alpn=http%2F1.1&encryption=none&host=nb-de.ttgju.org&type=ws&sni=ttgju.org#MCI--%40V2ray_Alpha--08
 vless://ef212c2d-86a9-42b3-88af-26c73849008e@hajlab.ucdavis.edu:80?security=none&encryption=none&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v15.drlimit.net&type=ws#MCI--%40V2ray_Alpha--09
 vless://0e626bc4-44a4-4e24-baa9-604f5387db80@84.47.233.102:20014?security=none&encryption=none&headerType=none&type=tcp#MCI--%40V2ray_Alpha--10
