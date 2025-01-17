@@ -4,6 +4,7 @@
 #support-url: https://github.com/RainPPR/V2ray-Configs
 #profile-web-page-url: https://github.com/RainPPR/V2ray-Configs
 
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.169.39.170:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram
 vless://ed35d48f-f16b-4d2d-93e9-10675a3e966c@tify-binex-join.espikernajafi.ir:2053?path=telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY%3Fed%3D2560&security=none&encryption=none&type=ws#%40V2RAYROZ`
 vless://8ab3562d-c86d-551b-b4c7-f252c6e706ef@151.101.130.133:443?security=tls&sni=live.skornorth.com&type=ws&host=MOSIV2.CC&fp=qq&allowInsecure=1#@Hope_Net-join-us-on-Telegram
 vless://8ab3562d-c86d-551b-b4c7-f252c6e706ef@151.101.66.133:443?security=tls&sni=live.skornorth.com&type=ws&host=MOSIV2.CC&fp=qq&allowInsecure=1#@Hope_Net-join-us-on-Telegram`
