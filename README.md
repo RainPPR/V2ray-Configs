@@ -4,9 +4,9 @@
 
 这个仓库包含了一系列免费的 V2ray 配置文件，你可以在你的 V2ray 客户端中使用它们来安全、匿名地访问互联网。
 
-![GitHub last commit](https://img.shields.io/github/last-commit/RainPPR/V2ray-Configs.svg) [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/) [![GitHub stars](https://img.shields.io/github/stars/RainPPR/V2ray-Configs.svg)](https://github.com/RainPPR/V2ray-Configs/stargazers) [![Update Configs](https://github.com/RainPPR/V2ray-Configs/actions/workflows/main.yml/badge.svg)](https://github.com/RainPPR/V2ray-Configs/actions/workflows/main.yml) ![GitHub repo size](https://img.shields.io/github/repo-size/RainPPR/V2ray-Configs)
+![GitHub last commit](https://img.shields.io/github/last-commit/RaineMtF/V2ray-Configs.svg) [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/) [![GitHub stars](https://img.shields.io/github/stars/RaineMtF/V2ray-Configs.svg)](https://github.com/RaineMtF/V2ray-Configs/stargazers) [![Update Configs](https://github.com/RaineMtF/V2ray-Configs/actions/workflows/main.yml/badge.svg)](https://github.com/RaineMtF/V2ray-Configs/actions/workflows/main.yml) ![GitHub repo size](https://img.shields.io/github/repo-size/RaineMtF/V2ray-Configs)
 
-## 由 RainPPR 修改如下
+## 修改如下
 
 + 为了缩减仓库大小，去除了所有 Base64 内容。
 
@@ -15,13 +15,6 @@
 + 删除了部分质量低（在中国移动，山东测试）的源。
 
 + 为了节省花费，从 10 分钟一次更新，修改到 60 分钟一次更新。
-
-<!-- add-file: ./Files/.date -->
-
-``` date markdown-add-files
-Last updated: Sun Jan 19 12:33:42 UTC 2025
-
-```
 
 ## 使用方法
 
