@@ -9,9 +9,7 @@ on:
     branches:
       - master
       - main
-  schedule:
-    # Run every 60 minutes
-    - cron: '*/60 * * * *'
+  schedule: [{cron: "0 * * * *"}]
 
 permissions:
   contents: write
