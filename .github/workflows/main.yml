@@ -51,6 +51,3 @@ jobs:
         else
           echo Pass
         fi
-
-            echo Pass
-          fi
