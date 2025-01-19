@@ -20,13 +20,6 @@ jobs:
         git config user.name github-actions[bot]
         git config user.email 41898282+github-actions[bot]@users.noreply.github.com
 
-    - name: Update date
-      run: |
-        echo -n "Last updated: " >.date
-        date >> .date
-    - name: Update README.md
-      uses: nwylynko/markdown-add-files@master
-
     - name: Commit and Push files
       run: |
         git checkout --orphan temp_branch
