@@ -1,8 +1,8 @@
-#profile-title: base64:8J+GkyBHaXQ6UmFpblBQUiB8IFN1YjIg8J+rgg==
+#profile-title: base64:8J+GkyBHaXQ6UmFpbmVNdEYgfCBTdWIyIPCfq4I=
 #profile-update-interval: 1
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
-#support-url: https://github.com/RainPPR/V2ray-Configs
-#profile-web-page-url: https://github.com/RainPPR/V2ray-Configs
+#support-url: https://github.com/RaineMtF/V2ray-Configs
+#profile-web-page-url: https://github.com/RaineMtF/V2ray-Configs
 
 ss://18758238-2625-2730-3689-f157ae275ad4@spain-01.ab-841.ip-ddns.com:443?mode=gun&security=tls&alpn=h2&encryption=none&fp=random&type=grpc&serviceName=grpc&sni=wrcgbsu.qwapples.com#IR-%40V2ray_Alpha-10
 ss://69cc67fe-1eab-4397-a3b8-0a574b57e117@mn9w9jjta0aa.libreone.com:443?mode=gun&security=tls&alpn=h2&encryption=none&fp=chrome&type=grpc&serviceName=J0qJ2JwVtNGs9pRs4eQCmohVsIQ&sni=mn9w9jjta0aa.libreone.com#IR-%40V2ray_Alpha-11
